@@ -1,0 +1,50 @@
+[ {
+  "type" : "Notification",
+  "text" : "Съешь еще этих больших мягких французских булочек",
+  "isDeletable": true,
+  "id" : "0"
+}, {
+  "type" : "Message",
+  "text" : "Свободен вечером?",
+  "isDeletable": true,
+  "id" : "1",
+  "sender" : "Маша Рябова"
+}, {
+  "type" : "Checkbox",
+  "text" : "Ответьте на вопрос",
+  "isDeletable": true,
+  "isMultiply": true,
+  "id" : "3",
+  "box": [
+    "1 ответ",
+    "2 ответ",
+    "3 ответ"
+  ]
+}, {
+  "type" : "Rate",
+  "text" : "Оцените предыдущий опрос",
+  "countOfButton": 5,
+  "isDeletable": false,
+  "id" : "2"
+}, {
+  "type": "ElementsList",
+  "text": "text",
+  "isDeletable": true,
+  "id": "4",
+  "direction": "vertical",
+  "elements": [
+    {
+      "type" : "Message",
+      "isDeletable": false,
+      "text" : "свободен вечером?",
+      "id" : "5",
+      "sender" : "ввв"
+    }, {
+      "type" : "Rate",
+      "isDeletable": false,
+      "countOfButton": 5,
+      "text" : "wqewqe",
+      "id" : "6"
+    }
+  ]
+}]
