@@ -1,0 +1,39 @@
+.container {
+    margin: 10px 0;
+    background-color: #d9d9d9;
+    width: 500px;
+    
+    border-radius: 15px;
+    
+    padding: 10px 50px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    text-align: justify;
+    font-size: 24px;
+    
+}
+
+
+
+.clsbtn {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center; /* центрирование по горизонтали */
+    align-items: center;
+    /* margin-left: 200px; */
+    border-radius: 50%;
+    border: none;
+    margin-left: 513px;
+}
+
+.clsicon {
+    font-size: 24px;
+    background-color: #d9d9d9;
+}
+
+.textP {
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}

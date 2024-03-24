@@ -1,0 +1,61 @@
+.container {
+    margin: 10px 0;
+    background-color: #d9d9d9;
+    width: 500px;
+    
+    border-radius: 15px;
+    
+    padding: 10px 50px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    text-align: justify;
+    font-size: 24px;
+    
+}
+
+
+
+.chbx {
+    padding: 10px;
+    padding-top: 0;
+    padding-bottom: 5px;
+    
+    font-size: 24px;
+}
+
+.btn {
+    margin-left: 400px;
+    
+}
+
+.clsbtn {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center; /* центрирование по горизонтали */
+    align-items: center;
+    /* margin-left: 200px; */
+    border-radius: 50%;
+    border: none;
+    margin-left: 513px;
+}
+
+.clsicon {
+    font-size: 24px;
+    background-color: #d9d9d9;
+}
+
+.textP {
+    margin: 0;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+/* .radioText {
+    font-size: 24px;
+    margin: 0;
+}
+
+.rdbtnContainer {
+    font-size: 24px;
+} */
